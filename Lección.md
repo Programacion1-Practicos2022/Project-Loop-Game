@@ -1,5 +1,5 @@
 
-# Project: Loop GameLos basicos:
+# Project: Loop Game
 
 **Objetivo:** SWBAT planificar y ejecutar un programa con estructura de repetición y control de flujo if/elif/else.
 
